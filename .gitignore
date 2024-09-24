@@ -1,0 +1,19 @@
+Interview/bin/
+Interview/obj/
+
+Interview/RL.Backend/bin/
+Interview/RL.Backend/obj/
+
+Interview/RL.Backend.UnitTests/bin/
+Interview/RL.Backend.UnitTests/obj/
+
+Interview/RL.Data/bin/
+Interview/RL.Data/obj/
+
+.vs
+
+# Rider
+.idea/
+
+# Mac OS X
+.DS_Store
